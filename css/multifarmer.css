@@ -11,6 +11,13 @@
  transform: translateY(-20px);
 }
 
+.moving-up button
+{
+  left: 8px;
+  position: absolute;
+  top: 30px;
+  z-index: 99;
+}
 
 .w-layout-grid {
   display: -ms-grid;
