@@ -5,6 +5,7 @@
   transition: transform 0.3s ease;
   transform: translateZ(0px);
   width: 256px;
+  filter: drop-shadow(10px 10px 5px #b4b3b3);
 }
 .moving-up:hover
 {
