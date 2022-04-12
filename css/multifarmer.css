@@ -1,3 +1,39 @@
+.avax {
+  font-family: Satoshi, sans-serif;
+  font-size: 24px;
+  font-weight: bold; 
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+  }
+
+ #bnb {
+    font-family: Satoshi, sans-serif;
+    font-size: 24px;
+    font-weight: bold; 
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    }
+  
+  .ftm {
+      font-family: Satoshi, sans-serif;
+      font-size: 24px;
+      font-weight: bold; 
+      color: black;
+      text-align: center;
+      padding-top: 10px;
+      }
+
+  .matic {
+        font-family: Satoshi, sans-serif;
+        font-size: 24px;
+        font-weight: bold; 
+        color: black;
+        text-align: center;
+        padding-top: 10px;
+        }
+
 .moving-up
 {
   height: 256px;
